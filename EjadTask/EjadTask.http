@@ -1,0 +1,6 @@
+@EjadTask_HostAddress = http://localhost:5142
+
+GET {{EjadTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
